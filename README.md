@@ -24,7 +24,7 @@ dnd character <race> <class>
 
 ## 3. Keeping track of adventure
 
-Also, when there is combat, the track might be controlable by the DM, which our tool also provides.
+Also, when there is combat, the track might be controlable by the DM, which our tool also provides. This also might keep track of the iniative values rolled by the heroes.
 
 ```
 dnd combat 
