@@ -31,3 +31,12 @@ dnd combat
 ```
 
 
+## Extras
+
+### 1. List of spells by race
+
+```
+dnd spells <race>
+```
+
+
